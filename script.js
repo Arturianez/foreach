@@ -5,7 +5,6 @@
 // function callbackFn(callback) {
 //     callback()
 // }
-
 // callbackFn(someFn)
 
 // function someDelayedFn() {
